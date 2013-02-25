@@ -1,0 +1,14 @@
+{
+  "github" : [
+    "tpope/vim-surround",
+    "tpope/vim-ragtag",
+    "tpope/vim-haml",
+    "tpope/vim-ruby",
+    "tpope/vim-fugitive",
+    "tpope/vim-pastie",
+    "scrooloose/nerdtree",
+    "altercation/vim-colors-solarized",
+    "mattn/zencoding-vim",
+    "kien/ctrlp.vim"
+  ]
+}
